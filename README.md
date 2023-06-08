@@ -21,4 +21,20 @@ Here are some ideas to get you started:
 - Multifunctional Flashlight
 - Smart-ish Watch
 - RoboCup Junior Soccer Open robot
+
 ... and a lot more
+
+🌱 I’m currently learning:
+- Android Development (Kotlin)
+- Properly using **git**
+- managing large projects
+- TODO
+
+👯 I’m open to collaborations 
+
+📫 How to reach me:
+- by email (vs.samu.dev@gmail.com)
+- by Discord (SamTheDev#2926)
+- TODO
+
+⚡ Fun fact: I use ***debian*** (GNU/Linux)
