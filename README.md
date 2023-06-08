@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I'm currently working on a...
+- Game Engine (and Physics Engine)
+- Neural Network Library
+- Multifunctional Flashlight
+- Smart-ish Watch
+- RoboCup Junior Soccer Open robot
+... and a lot more
