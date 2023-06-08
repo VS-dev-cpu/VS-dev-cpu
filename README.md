@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 - Android Development (Kotlin)
 - Properly using **git**
 - managing large projects
-- using SQL (sqlite3)
+- GPU Programming
+- AI Development (& training)
+- SQL (sqlite3)
 
 👯 I’m open to collaborations 
 
