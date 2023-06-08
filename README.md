@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 🔭 I'm currently working on a...
 - Game Engine (and Physics Engine)
 - Neural Network Library
+- Chat App
 - Multifunctional Flashlight
 - Smart-ish Watch
 - RoboCup Junior Soccer Open robot
@@ -28,13 +29,12 @@ Here are some ideas to get you started:
 - Android Development (Kotlin)
 - Properly using **git**
 - managing large projects
-- TODO
+- using SQL (sqlite3)
 
 👯 I’m open to collaborations 
 
 📫 How to reach me:
 - by email (vs.samu.dev@gmail.com)
 - by Discord (SamTheDev#2926)
-- TODO
 
 ⚡ Fun fact: I use ***debian*** (GNU/Linux)
