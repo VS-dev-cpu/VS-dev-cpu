@@ -26,12 +26,11 @@ Here are some ideas to get you started:
 ... and a lot more
 
 🌱 I’m currently learning:
+- GPU Programming (Vulkan)
 - Android Development (Kotlin)
-- Properly using **git**
 - managing large projects
-- GPU Programming
-- AI Development (& training)
-- SQL (sqlite3)
+- AI Development
+- Game Development
 
 👯 I’m open to collaborations 
 
