@@ -42,3 +42,6 @@ Here are some ideas to get you started:
 - My computer is an [HP EliteBook 2170p](https://support.hp.com/nz-en/document/c03406489) Laptop ([11 yo](https://www.google.com/search?q=hp+elitebook+2170p+release+date), [3rd gen i7](https://www.intel.com/content/www/us/en/products/sku/64898/intel-core-i73667u-processor-4m-cache-up-to-3-20-ghz/specifications.html) xd)
 - I use [Visual Studio Codium](https://vscodium.com/) (on **debian 12**, linux)
 - My extensions are: [clangd](https://open-vsx.org/extension/llvm-vs-code-extensions/vscode-clangd), [CMake](https://open-vsx.org/extension/twxs/cmake), [CMake IntelliSense](https://open-vsx.org/extension/KylinIdeTeam/cmake-intellisence), [CMake Tools](https://open-vsx.org/extension/ms-vscode/cmake-tools), [Todo Tree](https://open-vsx.org/vscode/item?itemName=Gruntfuggly.todo-tree)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=VS-dev-cpu&count_private=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VS-dev-cpu&layout=compact)
