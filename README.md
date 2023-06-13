@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> week-end developer
+
 <!--
 **VS-dev-cpu/VS-dev-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
