@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 - by email (vs.samu.dev@gmail.com)
-- by Discord (SamTheDev#2926)
+- by Discord (***@samthedev***)
 
 💻 My Dev Setup:
 - My computer is an [HP EliteBook 2170p](https://support.hp.com/nz-en/document/c03406489) Laptop ([11 yo](https://www.google.com/search?q=hp+elitebook+2170p+release+date), [3rd gen i7](https://www.intel.com/content/www/us/en/products/sku/64898/intel-core-i73667u-processor-4m-cache-up-to-3-20-ghz/specifications.html) xd)
