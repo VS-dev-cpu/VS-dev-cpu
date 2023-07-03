@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 👯 I’m open to collaborations 
 
 📫 How to reach me:
-- by email (vs.samu.dev@gmail.com)
+- by email (samthedev@toaster.hu)
 - by Discord (***@samthedev***)
 
 💻 My Dev Setup:
